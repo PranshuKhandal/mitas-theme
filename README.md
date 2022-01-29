@@ -1,1 +1,1 @@
-# Solarized Dark Theme
+# Mitas Theme
