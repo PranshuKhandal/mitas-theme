@@ -1,0 +1,21 @@
+{
+  "name": "mitas-theme",
+  "version": "1.0.0",
+  "main": "dist/dist.css",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.2.0"
+  },
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PranshuKhandal/mitas-theme.git"
+  },
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
